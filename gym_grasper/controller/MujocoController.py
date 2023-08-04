@@ -11,6 +11,7 @@ import numpy as np
 from simple_pid import PID
 from termcolor import colored
 import ikpy
+import ikpy.chain
 from pyquaternion import Quaternion
 import cv2 as cv
 import matplotlib.pyplot as plt
